@@ -1,4 +1,7 @@
 # demoproject-VPN
+
+The link may not work as cloud services can't be kept running because it charges money for running cloud services
+
 link of working demo--> http://globaltrafficmanager8.trafficmanager.net
 
 
